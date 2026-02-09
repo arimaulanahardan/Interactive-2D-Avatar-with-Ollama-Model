@@ -1,5 +1,7 @@
 # Interactive 2D Avatar with Ollama AI
 
+<img width="2028" height="1274" alt="image" src="https://github.com/user-attachments/assets/011c062e-a93c-4b46-adba-b355966a5276" />
+
 A Next.js application featuring a fully interactive 2D avatar with advanced lip-sync, real-time AI responses powered by Ollama, and natural facial expressions.
 
 ![Avatar Demo](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
