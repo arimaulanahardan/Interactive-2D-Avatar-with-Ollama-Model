@@ -39,6 +39,10 @@ A Next.js application featuring a fully interactive 2D avatar with advanced lip-
 - **No Idle Blinking**: Eyes only blink during conversation
 - **Instant Rendering**: Preloaded assets for zero delays
 
+
+https://github.com/user-attachments/assets/d69692d9-c48c-457b-b77a-5313af0d021e
+
+
 ---
 
 ## 🚀 Quick Start
