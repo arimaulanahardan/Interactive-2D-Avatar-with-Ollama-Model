@@ -51,7 +51,7 @@ A Next.js application featuring a fully interactive 2D avatar with advanced lip-
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd avatar-prototype
+cd Interactive-2D-Avatar-with-Ollama-Model
 
 # Install dependencies
 npm install
